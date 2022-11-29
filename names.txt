@@ -1,4 +1,8 @@
 okay will write something.
 i dont know what to write.
 cool thats enough.
+<<<<<<< HEAD
 okay
+=======
+editing in remote.
+>>>>>>> 24dfb753df45c5941cfa0bc19df3f62883801f14
